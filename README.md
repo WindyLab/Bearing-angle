@@ -15,7 +15,7 @@ This is the source code for our **IJRR** paper "A bearing-angle approach for unk
 An observer MAV observes a target MAV with a monocular camera. The bearing g and angle θ can be obtained from the bounding box that surrounds the target in the image.
 
 ## Running Experiments
-Simply run the 'main.m' script in Matlab 2021a.
+Simply run the 'main.m' script using Matlab 2021a.
 - The source code has been tested with MATLAB 2021a.
 - Each folder corresponds to one numerical simulation experiments.
 - The folder's name indicates which experiment it corresponds to.
