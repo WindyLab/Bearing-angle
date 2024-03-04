@@ -1,12 +1,26 @@
-# A bearing-angle approach for unknown target motion analysis based on visual measurements
-
-- arxiv: https://arxiv.org/abs/2401.17117
-- Sage：https://journals.sagepub.com/doi/10.1177/02783649241229172
-- DOI：https://doi.org/10.1177/0278364924122917
-- Youtube: https://www.youtube.com/watch?v=EMQXMJ3_M9Y
-- Bilibili: https://www.bilibili.com/video/BV1EC411z7Lz/?spm_id_from=333.999.0.0
-
-
+<div align="center">
+  <h1>A bearing-angle approach for unknown target motion analysis based on visual measurements</h1>
+<p align="center">
+  <a href="https://arxiv.org/abs/2401.17117">
+    <img src="https://img.shields.io/badge/arXiv-paper?style=socia&logo=arxiv&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://arxiv.org/pdf/2401.17117.pdf">
+    <img src="https://img.shields.io/badge/Paper-blue?logo=googledocs&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://journals.sagepub.com/doi/10.1177/02783649241229172">
+    <img src="https://img.shields.io/badge/sage-blue?logo=sage&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://doi.org/10.1177/0278364924122917">
+    <img src="https://img.shields.io/badge/DOI-blue?logo=doi&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://www.youtube.com/watch?v=EMQXMJ3_M9Y">
+    <img src="https://img.shields.io/badge/Video-blue?logo=youtube&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://www.bilibili.com/video/BV1EC411z7Lz/?spm_id_from=333.999.0.0">
+    <img src="https://img.shields.io/badge/Video-blue?logo=bilibili&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+</p>
+  
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EMQXMJ3_M9Y/0.jpg)](https://www.youtube.com/watch?v=EMQXMJ3_M9Y)
+  
+</div>
+  
 This is the source code for our **IJRR** paper "A bearing-angle approach for unknown target motion analysis based on visual measurements". This file contains five numerical simulation experiments conresponding to Fig. 4 and Fig. 5 in the paper.
 
 
